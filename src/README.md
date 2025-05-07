@@ -23,7 +23,7 @@ interactive-rating-component/ ├── index.html # Main HTML file ├── ap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/interactive-rating-component.git
+   git clone https://github.com/
 
 2. Navigate to the project directory:
    cd interactive-rating-component
