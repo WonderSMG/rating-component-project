@@ -34,5 +34,5 @@ About
 This project was created as part of my first internship. It helped me learn and apply the basics of web development, including HTML, CSS, and JavaScript. I also gained experience in building interactive components and managing application state.
 
 Acknowledgments:
-**.** Thanks to my internship team for their guidance and support.
+**.** Thanks to my internship team for the task and also, their support.
 **.** Design inspiration from Frontend Mentor.
